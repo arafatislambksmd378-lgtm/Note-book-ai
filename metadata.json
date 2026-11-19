@@ -1,0 +1,6 @@
+{
+  "name": "NoteGenie AI",
+  "description": "Offline-first AI note-taking mobile application Phase 1 UI prototype and Flutter workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
